@@ -1,2 +1,2 @@
- window.open ("http://www.3330111.com#ww"); 
- window.location.href="http://www.3330111.com/#ww"; 
+ window.open ("http://www.553211.com#ww"); 
+ window.location.href="http://www.553211.com/#ww"; 
