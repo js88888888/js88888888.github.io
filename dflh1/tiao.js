@@ -1,2 +1,2 @@
-window.open ("http://www.bvb88.com#"); 
-window.location.href="http://www.bvb88.com/#"; 
+window.open ("http://www.bvb8.com#"); 
+window.location.href="http://www.bvb8.com/#"; 
