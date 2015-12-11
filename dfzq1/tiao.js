@@ -1,3 +1,2 @@
-window.open ("http://bbet55.com/"); 
- 
-window.location.href="http://bbet55.com/"; 
+window.open ("http://www.551398.com/#免费公开一码"); 
+window.location.href="http://www.551398.com/#免费公开一码"; 
